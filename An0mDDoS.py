@@ -12,15 +12,19 @@ if os.name == "posix":
 elif os.name == "nt":
     os.system('cls')
 logo = """
-    _           ___              ____        _              _   
-   / \   _ __  / _ \ _ __ ___   | __ )  ___ | |_ _ __   ___| |_ 
-  / _ \ | '_ \| | | | '_ ` _ \  |  _ \ / _ \| __| '_ \ / _ \ __|
- / ___ \| | | | |_| | | | | | | | |_) | (_) | |_| | | |  __/ |_ 
-/_/   \_\_| |_|\___/|_| |_| |_| |____/ \___/ \__|_| |_|\___|\__|
-                  An0mBotnet
-                   V : 0.0.1
-              MADE BY : An0mXD
-          TEAM  : Smileyz & K0lzSec 
+                  |
+                 / \
+                / _ \
+               |.o '.|
+               |'._.'|
+               |     |
+             ,'|  |  |`.
+            /  |  |  |  \
+            |,-'--|--'-.|
+             An0mBotnet
+           version : 0.0.1
+          MADE BY : An0mXD
+      TEAM  : Smileyz & K0lzSec 
 """
 print(Fore.LIGHTMAGENTA_EX + logo)
 try:
