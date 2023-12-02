@@ -19,7 +19,7 @@ logo = """
 /_/   \_\_| |_|\___/|_| |_| |_| |____/ \___/ \__|_| |_|\___|\__|
                   An0mBotnet
                    V : 0.0.1
-              MADE BY : MrSanZz
+              MADE BY : An0mXD
           TEAM  : Smileyz & K0lzSec 
 """
 print(Fore.LIGHTMAGENTA_EX + logo)
