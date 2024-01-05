@@ -27,7 +27,7 @@ logo = """
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠟⠁⠀⠀⠀⠀⠙⢷⣄⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣉⣁⡀⠀⠀⠀⠀⠀⠀⣀⣉⣀⣀⣀⡀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠁⠀⠀⠀
-                An0mBotnet
+                 An0mDDoS
              version : 0.0.1
             MADE BY : An0mXD
         TEAM  : Smileyz & K0lzSec 
